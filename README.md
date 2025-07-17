@@ -1,6 +1,6 @@
 # Steganografi-Gambar
 
-<p align="center"><a href="https://github.com/Hazelnut-dev/PerpuApp-Laravel12" target="_blank"><img src="public/image/layouts/dashboard.png" width="auto" alt="PerpusApp Logo"></a></p>
+<p align="center"><a href="https://github.com/HazelnutDev/Steganografi-Gambar" target="_blank"><img src="Screenshot 2025-07-17 185704.png" width="auto" alt="Image Steganografi"></a></p>
 
 ## Tentang Steganografi-Gambar
 
